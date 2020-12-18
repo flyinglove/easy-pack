@@ -1,0 +1,9 @@
+{
+  "name": "webpack-easy",
+  "version": "1.0.0",
+  "bin": {
+    "easypack": "./bin/easy-pack.js"
+  },
+  "main": "./lib/complier.js",
+  "license": "MIT"
+}
